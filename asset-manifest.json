@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/tourhobe/static/css/main.10ee8578.css",
+    "main.js": "/tourhobe/static/js/main.6ea2a6d6.js",
+    "static/media/sundarban2.jpg": "/tourhobe/static/media/sundarban2.fdd1e8021787b7ae2d60.jpg",
+    "static/media/bandarban1.jpg": "/tourhobe/static/media/bandarban1.4b2822b7da9000664dfa.jpg",
+    "static/media/cox2.jpg": "/tourhobe/static/media/cox2.66c9e88cfe5aa3b579ee.jpg",
+    "static/media/sajek.jpg": "/tourhobe/static/media/sajek.efc8f13abe911dcd500b.jpg",
+    "static/media/bandarban2.jpg": "/tourhobe/static/media/bandarban2.67cb8f8dd62d64deec31.jpg",
+    "static/media/tanguar.jpg": "/tourhobe/static/media/tanguar.e66060a6a35d6f98fe85.jpg",
+    "static/media/cox1.jpg": "/tourhobe/static/media/cox1.6f7b59b928a792f3504d.jpg",
+    "static/media/potrait2.jpg": "/tourhobe/static/media/potrait2.ca20ef2680ca6fe8dbb5.jpg",
+    "static/media/bandarban3.jpg": "/tourhobe/static/media/bandarban3.3d6022f07be727b16ea9.jpg",
+    "static/media/a.jpg": "/tourhobe/static/media/a.3849dae2805540c38a87.jpg",
+    "index.html": "/tourhobe/index.html",
+    "main.10ee8578.css.map": "/tourhobe/static/css/main.10ee8578.css.map",
+    "main.6ea2a6d6.js.map": "/tourhobe/static/js/main.6ea2a6d6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.10ee8578.css",
+    "static/js/main.6ea2a6d6.js"
+  ]
+}
